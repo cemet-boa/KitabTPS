@@ -1010,87 +1010,44 @@ a.btn-white {
   background: #000;
   color: #fff;
 }
-.cid-skd1xx0vXX {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
+.cid-szerDgX1CP {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  background-color: #ffffff;
 }
-.cid-skd1xx0vXX .title_block {
-  margin-bottom: 80px;
+.cid-szerDgX1CP .mbr-section-subtitle {
+  color: #14191e;
 }
-.cid-skd1xx0vXX .mbr-section-subtitle {
-  margin-bottom: 16px;
-  color: #1732a4;
-  letter-spacing: 1.6px;
-  line-height: 1;
-  font-weight: 600;
+.cid-szerDgX1CP .mbr-text {
+  color: #777777;
 }
-.cid-skd1xx0vXX .mbr-section-title,
-.cid-skd1xx0vXX .card-title {
-  color: #051441;
+.cid-szerDgX1CP ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 1rem;
 }
-.cid-skd1xx0vXX .card-title {
-  margin-bottom: 22px;
-  color: #ffffff;
-}
-.cid-skd1xx0vXX .card-text {
-  margin-bottom: 20px;
-  line-height: 1.5;
-}
-.cid-skd1xx0vXX .btn_link {
-  display: block;
-  margin-bottom: 0;
+.cid-szerDgX1CP ul li {
+  margin-bottom: 1rem;
   position: relative;
-  font-weight: 700;
+  list-style: none;
+  padding-left: 1rem;
 }
-.cid-skd1xx0vXX .btn_link span {
-  display: inline-block;
-  margin-left: .25rem;
-  font-size: 16px;
-  vertical-align: middle;
-  transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+.cid-szerDgX1CP ul li:before {
+  position: absolute;
+  left: -20px;
+  content: "✓";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #777777;
+  width: 25px;
+  height: 25px;
 }
-.cid-skd1xx0vXX .btn_link:hover {
-  cursor: pointer;
+.cid-szerDgX1CP .mbr-list {
+  color: #777777;
 }
-.cid-skd1xx0vXX .btn_link:hover a {
-  color: #f08519 !important;
-}
-.cid-skd1xx0vXX .btn_link:hover span {
-  transform: translatex(5px);
-}
-.cid-skd1xx0vXX .item-img {
-  margin-bottom: 40px;
-}
-.cid-skd1xx0vXX img,
-.cid-skd1xx0vXX .item-img {
-  width: 100%;
-  object-fit: contain;
-  height: 130px;
-}
-.cid-skd1xx0vXX .item:focus,
-.cid-skd1xx0vXX span:focus {
-  outline: none;
-}
-@media (max-width: 991px) {
-  .cid-skd1xx0vXX .title_block {
-    margin-bottom: 40px;
-  }
-  .cid-skd1xx0vXX .card-title,
-  .cid-skd1xx0vXX .card-text {
-    margin-bottom: 16px;
-  }
-  .cid-skd1xx0vXX .item-wrapper {
-    max-width: 290px;
-    text-align: center;
-    margin: 50px auto 0;
-  }
-}
-.cid-skd1xx0vXX .mbr-section-title {
-  color: #ffffff;
-}
-.cid-skd1xx0vXX .card-text,
-.cid-skd1xx0vXX .btn_link {
-  color: #6a6b78;
+.cid-szerDgX1CP .mbr-section-title {
+  color: #000000;
 }
 .cid-syN3yG5Mz2 {
   padding-top: 0rem;
