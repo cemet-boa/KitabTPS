@@ -63,7 +63,7 @@
     ],
     "imageResize": true,
     "chatbutton": {
-      "phone": "087781633845",
+      "phone": "+6287781633845",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -79,7 +79,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/kitab-tps-128x128.png",
-    "mbrsiteDomain": "jrhjmkmmxw",
+    "mbrsiteDomain": "dso4kfqbht",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
